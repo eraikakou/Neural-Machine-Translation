@@ -1,0 +1,3 @@
+vocabulary:
+  vocabulary_path: "data/"
+  vocabulary_filename: "ende_32k.subword"
